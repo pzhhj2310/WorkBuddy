@@ -1,0 +1,13 @@
+# 系统文件
+Thumbs.db
+Desktop.ini
+
+# 临时与缓存
+*.tmp
+*.log
+__pycache__/
+*.pyc
+
+# 大文件与媒体缓存
+frames/
+*.mp4
